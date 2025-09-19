@@ -1,5 +1,7 @@
 # FRCMI 5937 programming standards
 
+Ask Nora if you have questions.
+
 ## Index
 
 - [Git standards](GIT.md)
